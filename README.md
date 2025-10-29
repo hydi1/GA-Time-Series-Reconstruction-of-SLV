@@ -1,1 +1,1 @@
-# A Geometric Algebra–Enhanced Spatio-temporal Learning Framework for Reconstructing Sea Level Variability
+# A Geometric Algebra–Enhanced Spatio-temporal Learning Model for Reconstructing Sea Level Variability
